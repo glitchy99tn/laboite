@@ -5,17 +5,11 @@
 ### Description
 
 ### Title
-tour.name = Untitled 4
+tour.name = Untitled 6
 
 ## Media
 
 ### Title
-panorama_759FA7A4_7E3C_A082_41B4_518F2291F1AD.label = la boite Preview 4
-
-## Popup
-
-### Body
-htmlText_70BFE3B0_7E3D_A082_41CC_D936D9CD802E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Welcome to La Boîte Digital Twin</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We are exited to showcase your unique art collection here!</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">&lt;3</SPAN></DIV></BODY></HTML></div>
-
-### Title
-window_70B6A3B8_7E3D_A082_41D9_700DE452EB07.title = La Boîte Digital Twin (Beta)
+panorama_81346D6E_88E9_E8EB_419D_E4F28C209B6C.label = La Boite Vide 2
+panorama_82952FB1_8960_4473_41D0_333F98A4C11B.label = La Boite Vide 3
+panorama_8392A8A4_88E9_E818_41C4_AE76E9551AF9.label = La Boite Vide 1
